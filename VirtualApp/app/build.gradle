@@ -20,11 +20,11 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "io.va.exposed"
+        applicationId "strakz.container"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 182
-        versionName "0.18.2"
+        versionName "one"
         multiDexEnabled false
         android {
             defaultConfig {
