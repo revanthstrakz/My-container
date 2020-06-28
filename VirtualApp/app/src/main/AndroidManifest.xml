@@ -13,7 +13,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/vxp"
-        android:debuggable=”true”
+        android:debuggable="true"
         android:theme="@style/LauncherTheme"
         tools:replace="android:icon,android:label">
 
